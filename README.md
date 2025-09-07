@@ -31,10 +31,9 @@ main
 ```
 That's it! Just press play on `main.m`
 
-**Requirements:** MATLAB R2018b+, Computer Vision Toolbox, Image Processing Toolbox.
+**Requirements:** MATLAB R2018b+ (I used MATLAB R2024b), Computer Vision Toolbox, Image Processing Toolbox.
 
 ---
-
 
 ## Results (inputs → panorama)
 
@@ -129,4 +128,12 @@ Pano_Stitcher/
   Seamless blends across large exposure/texture changes; fewer visible boundaries than linear feathering.
 
 ---
+
+## Contact
+
+**Author:** Raman Kumar  
+
+---
+
+*All stitched panoramas and visualizations are in `output/`. Run `main.m` to regenerate.*
 
