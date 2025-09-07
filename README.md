@@ -111,12 +111,12 @@ Panorama-FastR-Stitch/
 
 ## Feature Matching Visualization
 
-The pipeline generates match visualizations showing FAST vs FASTR performance:
+The pipeline generates visualizations showing feature correspondence between image pairs:
 
 <p align="center">
   <img src="output/set1_fastr_matches.png" width="80%"/>
   <br>
-  <em>FASTR matches with inlier detection (green lines = good matches)</em>
+  <em>FASTR feature matching: 67 initial matches → 34 inliers (50.7% ratio). Yellow lines show correspondences.</em>
 </p>
 
 ## Future Improvements
