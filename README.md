@@ -114,12 +114,19 @@ Pano_Stitcher/
 
 ---
 
-## Roadmap
+## Roadmap (future work)
 
-* Cylindrical / spherical projection for wider FOV
-* Exposure / gain compensation in overlaps
-* Bundle adjustment for multi-image global consistency
-* Multiband (Laplacian pyramid) blending as default
+- **Cylindrical / spherical projection** _(impact: high · difficulty: medium · tags: enhancement)_  
+  Reduce perspective distortion on wide FOV scenes so straight lines stay straight.
+
+- **Exposure / gain compensation** _(impact: medium · difficulty: medium · tags: enhancement)_  
+  Normalize brightness/color across overlaps to hide seams before blending.
+
+- **Bundle adjustment (multi-image)** _(impact: high · difficulty: hard · tags: enhancement)_  
+  Jointly refine all camera transforms to reduce drift and produce globally consistent panoramas.
+
+- **Multiband (Laplacian) blending** _(impact: high · difficulty: hard · tags: enhancement)_  
+  Seamless blends across large exposure/texture changes; fewer visible boundaries than linear feathering.
 
 ---
 
