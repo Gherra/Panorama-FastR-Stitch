@@ -19,30 +19,49 @@ main
 
 **Requirements:** MATLAB R2018b+ (I used MATLAB R2024b), Computer Vision Toolbox, Image Processing Toolbox
 
-## Results
 
-### WAC Bennett Library (2 images → panorama)
-<p align="center">
-  <img src="demo_images/set1_img1.png" width="30%"/>
-  <img src="demo_images/set1_img2.png" width="30%"/>
-  <img src="output/panorama_set1.jpg" width="36%"/>
-</p>
+## Results (inputs → panorama)
 
-### Academic Building (4 images → panorama)
+### Set 1: WAC Bennett Library (2 images → panorama)
+
+
 <p align="center">
-  <img src="demo_images/set2_img1.png" width="22%"/>
-  <img src="demo_images/set2_img2.png" width="22%"/>
-  <img src="demo_images/set2_img3.png" width="22%"/>
-  <img src="demo_images/set2_img4.png" width="22%"/>
+  <img src="demo_images/set1_img1.png" alt="set1_img1" width="30%"/>
+  <img src="demo_images/set1_img2.png" alt="set1_img2" width="30%"/>
 </p>
 <p align="center">
-  <img src="output/panorama_set2.jpg" width="90%"/>
+  <img src="output/panorama_set1.jpg" alt="panorama_set1" width="60%"/>
 </p>
 
-### Reflection Pond (4 images → panorama)
+---
+
+### Set 2: Academic Building (4 images → panorama)
+
 <p align="center">
-  <img src="output/panorama_set3.jpg" width="90%"/>
+  <img src="demo_images/set2_img1.png" alt="set2_img1" width="22%"/>
+  <img src="demo_images/set2_img2.png" alt="set2_img2" width="22%"/>
+  <img src="demo_images/set2_img3.png" alt="set2_img3" width="22%"/>
+  <img src="demo_images/set2_img4.png" alt="set2_img4" width="22%"/>
 </p>
+<p align="center">
+  <img src="output/panorama_set2.jpg" alt="panorama_set2" width="72%"/>
+</p>
+
+---
+
+### Set 3: Reflection Pond (4 images → panorama)
+
+<p align="center">
+  <img src="demo_images/set3_img1.png" alt="set3_img1" width="22%"/>
+  <img src="demo_images/set3_img2.png" alt="set3_img2" width="22%"/>
+  <img src="demo_images/set3_img3.png" alt="set3_img3" width="22%"/>
+  <img src="demo_images/set3_img4.png" alt="set3_img4" width="22%"/>
+</p>
+<p align="center">
+  <img src="output/panorama_set3.jpg" alt="panorama_set3" width="72%"/>
+</p>
+
+---
 
 *Test images captured around Simon Fraser University, Burnaby campus*
 
