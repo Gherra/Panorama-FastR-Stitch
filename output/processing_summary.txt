@@ -1,0 +1,12 @@
+Panorama Processing Report
+SFU Campus Image Stitching
+
+Date: 07-Sep-2025 07:02:37
+Detector: FASTR
+Descriptor: SURF
+Blend Method: linear
+
+Results:
+Set 1: Completed in 0.96s (2 images)
+Set 2: Completed in 1.66s (4 images)
+Set 3: Completed in 1.75s (4 images)
