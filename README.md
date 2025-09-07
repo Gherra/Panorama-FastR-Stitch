@@ -18,11 +18,23 @@
 
 ## Quickstart
 
-**Edit config** at the top of `main.m`: image sets, detector (`'FAST'|'FASTR'`), blend method (`'linear'|'multiband'`), and RANSAC params.
+**Setup your images:**
+- Place your images in the `demo_images/` folder  
+- Or modify the paths at the top of `main.m`
+
+
+```matlab
+
+% In MATLAB, navigate to the project folder
+main
+
+```
+That's it! Just press play on `main.m`
 
 **Requirements:** MATLAB R2018b+, Computer Vision Toolbox, Image Processing Toolbox.
 
 ---
+
 
 ## Results (inputs → panorama)
 
